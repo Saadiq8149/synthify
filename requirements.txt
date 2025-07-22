@@ -1,0 +1,7 @@
+demucs
+spotipy
+python-dotenv
+spotdl
+fastapi[standard]
+jinja2
+mutagen
